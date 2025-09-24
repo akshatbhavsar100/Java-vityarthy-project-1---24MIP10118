@@ -1,4 +1,4 @@
-Project: Campus Course & Records Manager (CCRM) - Humanized Code Variant
+Project: Campus Course & Records Manager (CCRM)
 
 Requirements
 ------------
@@ -21,3 +21,4 @@ Project notes
 - Minimal seed data is created by the application at startup
 - To change storage path modify AppConfig.get().storageFolder() in AppConfig (simple change)
 - No external libraries required
+
